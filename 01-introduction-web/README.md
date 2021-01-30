@@ -2,4 +2,9 @@
 
 ## Javascript
 
-- [] Algoritimos
+- [x] Algoritimos
+- [x] Comentarios, Strings, Numbers
+      -- uso de tamplate string `${}`
+      -- (typeof) descreve o tipo de variável
+      -- Codições
+- [x] Operadores de Comparação
